@@ -9,9 +9,9 @@ Análisis histórico de la TRM en Colombia mediante procesamiento batch con Apac
 
 ## Propósito del ejercicio
 
-Este proyecto se desarrolló con el objetivo de explorar el comportamiento histórico de la Tasa Representativa del Mercado (TRM) en Colombia mediante herramientas de procesamiento de grandes volúmenes de información.
+Este proyecto tiene como finalidad examinar el comportamiento histórico de la Tasa Representativa del Mercado (TRM) en Colombia, utilizando herramientas de procesamiento de datos como Apache Spark y Hadoop.
 
-Para ello, implementé un programa en Python utilizando Apache Spark, con el cual fue posible consultar los registros de la tasa de cambio, preparar la información y obtener indicadores que permiten reconocer sus variaciones a lo largo del tiempo.
+Para desarrollar el análisis, utilicé un programa en Python que permitió consultar los registros históricos, preparar la información y calcular indicadores estadísticos como el promedio, el valor mínimo y el valor máximo de la tasa de cambio.
 
 ## Información analizada
 
