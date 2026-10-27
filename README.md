@@ -9,10 +9,9 @@ Análisis histórico de la TRM en Colombia mediante procesamiento batch con Apac
 
 ## Propósito del ejercicio
 
-Este proyecto  tiene como finalidad examinar el comportamiento histórico de la Tasa Representativa del Mercado (TRM) en Colombia, utilizando herramientas de procesamiento de datos como Apache Spark y Hadoop.
+En esta actividad trabajé con información histórica del precio del dólar en Colombia, tomando como referencia los registros de la Tasa Representativa del Mercado (TRM). Mi propósito fue conocer cómo ha cambiado su valor durante los diferentes periodos registrados.
 
-Para desarrollar el análisis, utilicé un programa en Python que permitió consultar los registros históricos, preparar la información y calcular indicadores estadísticos como el promedio, el valor mínimo y el valor máximo de la tasa de cambio.
-
+Para realizar este trabajo utilicé Apache Spark y Hadoop, herramientas que me permitieron almacenar, consultar y procesar los datos. Mediante un programa en Python obtuve resultados como el promedio histórico, el valor más bajo y el más alto de la TRM, facilitando la comprensión de su comportamiento.
 ## Información analizada
 
 Los datos provienen del conjunto **Tasa de Cambio Representativa del Mercado – Histórico**, publicado en el Portal de Datos Abiertos de Colombia.
